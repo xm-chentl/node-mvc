@@ -1,2 +1,2 @@
 # node-mvc
-node koa
+Using KOA framework, GET and POST have been integrated
