@@ -17,6 +17,7 @@ class Login {
     }
 
     exec(args) {
+        console.log('参数: ', args);
         // 业务逻辑
         return {
             code: 0,

@@ -1,8 +1,8 @@
 {
-  "name": "xmsailina.com",
+  "name": "node.mvc",
   "type": "module",
   "version": "1.0.0",
-  "description": "xmsailina",
+  "description": "demo",
   "main": "3000",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
